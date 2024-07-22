@@ -1,0 +1,57 @@
+#pantry {
+    border: 2px solid;
+    background-color: grey;
+    color:aliceblue;
+    display: block;
+    border-color: black;
+    font-size: 32px;
+    text-align: center;
+
+}
+.firstgroup { 
+    background-color: #808080;
+    border: 2px solid;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    height: 140px
+    }
+
+.Pic1 {
+    display:inline-block;
+    padding: 1px 
+}
+
+#freeze {
+    border: 2px solid;
+    background-color: grey;
+    color:aliceblue;
+    display: block;
+    border-color: black;
+    font-size: 32px;
+    text-align: center;
+}
+
+.secondgroup {    
+    background-color: #808080;
+    border: 2px solid;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    height: 140px
+    }
+.fruitpic {
+    width:300px;
+    height:200px;
+    padding: 1px
+}
+.header {
+    color: navy;
+    background-color: lavender;
+    border-color: grey;
+    border: 2px solid;
+    text-align: center;
+}
+.category {
+    display:flex
+}
